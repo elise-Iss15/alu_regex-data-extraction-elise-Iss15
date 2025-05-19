@@ -23,21 +23,37 @@ git clone https://github.com/yourusername/reponame-yourusername.git
 3run the script
 #### output 
 Email addresses:
-user@example.com
-firstname.lastname@company.co.uk
+support@elytica.com
+
 URLs:
-https://www.example.comLinks to an external site.
-https://subdomain.example.org/pageLinks to an external site.
-Phone numbers (various formats):
-(123) 456-7890
-123-456-7890
-123.456.7890
+https://www.elytica.com
+https://elevatetech.elytica.org/page
+
+Phone numbers:
+(+250) 789-221-439
+(+250)-795-520-704
+
+Time:
+08:00
+17:30
+
+HTML tags:
+<p>
+</p>
+<img src="image.jpg" alt="description">
+
+Hashtags:
+#Techinnovate
+#ElevateTech
+
+Currency amounts:
+$19.99
+$1,234.56
+
 Credit card numbers:
 1234 5678 9012 3456
 1234-5678-9012-3456
-Time:
-14:30 (24-hour format)
-2:30 PM (12-hour format)
+
 
 
 
